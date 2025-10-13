@@ -3,8 +3,8 @@
 Project list: 
 
 - GUI_VibraForge: Haptic GUI developped for the Laboratory of Intelligent Systems (LIS) at EPFL, which is forked on their github page
-- HF_VisionPro: VisionPro based teleoperation for HuggingFace LeRobot arm
-- HF_ArmTracking: Sensor based teleoperation for HuggingFace LeRobot arm
+- HF_VisionTracker: VisionPro based teleoperation for HuggingFace LeRobot arm
+- HF_SensorTracker: Sensor based teleoperation for HuggingFace LeRobot arm
 - ArmTracking: Robotic Arm Teleoperation Toolkit
 - ILGrasp: Vision based Prosthesis Grasping pipeline based on Imitation Learning with custom dataset
     - Imitation Learning model trainable with custom dataset
